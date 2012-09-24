@@ -1,6 +1,6 @@
 ### Confluence River for Elasticsearch
 
-Welcome to the Confluence River Plugin for "Elasticsearch": [http://www.elasticsearch.org]
+Welcome to the Confluence River Plugin for ["Elasticsearch"](http://www.elasticsearch.org)
 
 ### Versions
 
