@@ -1,11 +1,17 @@
 ### Confluence River for Elasticsearch
 
-Welcome to the Confluence River Plugin for "Elasticsearch": http://www.elasticsearch.org
+Welcome to the Confluence River Plugin for "Elasticsearch": [http://www.elasticsearch.org]
 
 ### Versions
 
-|_. Confluence River Plugin|_. ElasticSearch|
-|  master (0.0.1)   |  master (0.19) |
+<table>
+  <tr>
+    <th>Confluence River Plugin</th><th>ElasticSearch</th>
+  </tr>
+  <tr>
+    <td>master (0.0.1)</td><td>master (0.19)</td>
+  </tr>
+</table>
 
 ### Getting Started
 
@@ -51,7 +57,6 @@ $ curl -XPUT 'localhost:9200/_river/confluence/_meta' -d '{
   }
 }'
 </pre>
-
 
 ### To Do List
 
