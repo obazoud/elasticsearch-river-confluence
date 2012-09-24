@@ -4,7 +4,7 @@ Welcome to the Confluence River Plugin for "Elasticsearch": http://www.elasticse
 
 ### Versions
 
-|_. RSS River Plugin|_. ElasticSearch|
+|_. Confluence River Plugin|_. ElasticSearch|
 |  master (0.0.1)   |  master (0.19) |
 
 ### Getting Started
